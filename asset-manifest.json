@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3dbe890f.css",
+    "main.js": "/static/js/main.9389e880.js",
+    "static/js/787.e854c4bd.chunk.js": "/static/js/787.e854c4bd.chunk.js",
+    "static/media/RFP.png": "/static/media/RFP.506b7a2acdc4d2034e7e.png",
+    "static/media/freshly.png": "/static/media/freshly.4ee56562b5c82ddaa566.png",
+    "static/media/nykaa.png": "/static/media/nykaa.11f8ec03ad1a5bf45f80.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/big.png": "/static/media/big.0a496abe89040962e46f.png",
+    "static/media/SCR.png": "/static/media/SCR.10b47675abbb8c5686b1.png",
+    "static/media/DSC.png": "/static/media/DSC.173b5779aca4d79244e7.png",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/TejaswiChaudhari_transcript.pdf": "/static/media/TejaswiChaudhari_transcript.dbbc7c519d8c783978e8.pdf",
+    "static/media/hotspot.png": "/static/media/hotspot.8937cdf4a210886ad655.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Ranjith.pdf": "/static/media/Ranjith.70879c85824ca1f189d6.pdf",
+    "static/media/unnikrishnan.pdf": "/static/media/unnikrishnan.ff9cda10beb42b6e7cb6.pdf",
+    "static/media/firstone.jpg": "/static/media/firstone.377e8f3780c7404e23f8.jpg",
+    "static/media/profilepic.jpg": "/static/media/profilepic.27bc1efff1f8957d65f4.jpg",
+    "static/media/connect-dark1.svg": "/static/media/connect-dark1.4754022c8f71da3ed83ad0317bac4d72.svg",
+    "static/media/connect-light1.svg": "/static/media/connect-light1.9e275a23229499fd41bbcfd48c204d3f.svg",
+    "static/media/skills-dark1.svg": "/static/media/skills-dark1.fdd222b7b511b05d129268b13b6e2023.svg",
+    "static/media/skills-light1.svg": "/static/media/skills-light1.6e82be4bf63821a67dffb24b963451a0.svg",
+    "static/media/hello-dark1.svg": "/static/media/hello-dark1.10be382e8048ac2ab7b179d2e85ada0a.svg",
+    "static/media/hello-light1.svg": "/static/media/hello-light1.c5ad62cb8a48a92073446936bcbfed3d.svg",
+    "static/media/contact-dark1.svg": "/static/media/contact-dark1.dd472488197a960aa39dedaee58526b8.svg",
+    "static/media/contact-light1.svg": "/static/media/contact-light1.b9c9c605baaa9ee5b83ed8e696fee885.svg",
+    "index.html": "/index.html",
+    "main.3dbe890f.css.map": "/static/css/main.3dbe890f.css.map",
+    "main.9389e880.js.map": "/static/js/main.9389e880.js.map",
+    "787.e854c4bd.chunk.js.map": "/static/js/787.e854c4bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dbe890f.css",
+    "static/js/main.9389e880.js"
+  ]
+}
